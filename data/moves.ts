@@ -19537,7 +19537,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	tackle: {
 		num: 33,
 		accuracy: 100,
-		basePower: 40,
+		basePower: 100,
 		category: "Physical",
 		name: "Tackle",
 		pp: 35,
