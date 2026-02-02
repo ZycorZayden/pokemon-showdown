@@ -21375,7 +21375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
   },
   vaporeonkazeran: {
     num: -5002,
-    name: 'Vaporeon',
+    name: 'Vaporeon Kazeran',
     types: ['Water', 'Fairy'],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 130, atk: 65, def: 60, spa: 110, spd: 95, spe: 65 },
