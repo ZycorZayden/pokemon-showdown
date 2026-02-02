@@ -120,6 +120,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			weatherball: ["9M", "8M", "5S3"],
 			workup: ["8M", "7M"],
 			worryseed: ["9L30", "8L30", "7T", "7L31", "6T", "6L31", "5T", "5L31", "4T", "4L31"],
+			degradation: ["9M"],
 		},
 		eventData: [
 			{generation: 3, level: 70, moves: ["sweetscent", "growth", "solarbeam", "synthesis"], pokeball: "pokeball"},
